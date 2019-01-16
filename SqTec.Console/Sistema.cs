@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 namespace SqTec.Console
 {
     /// <summary>
-    /// Classe da execução principal - Não deve ser alterada
+    /// Classe da execução principal - Não deve ser alterada.
     /// </summary>
     public class Sistema
     {
